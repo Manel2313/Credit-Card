@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Credit-Card/static/css/main.7e7c6b8f.chunk.css",
+    "main.js": "/Credit-Card/static/js/main.38a21940.chunk.js",
+    "main.js.map": "/Credit-Card/static/js/main.38a21940.chunk.js.map",
+    "runtime~main.js": "/Credit-Card/static/js/runtime~main.35f599d6.js",
+    "runtime~main.js.map": "/Credit-Card/static/js/runtime~main.35f599d6.js.map",
+    "static/js/2.a68ccf2f.chunk.js": "/Credit-Card/static/js/2.a68ccf2f.chunk.js",
+    "static/js/2.a68ccf2f.chunk.js.map": "/Credit-Card/static/js/2.a68ccf2f.chunk.js.map",
+    "index.html": "/Credit-Card/index.html",
+    "precache-manifest.4afb4439ca8882c55ced050a894c1a50.js": "/Credit-Card/precache-manifest.4afb4439ca8882c55ced050a894c1a50.js",
+    "service-worker.js": "/Credit-Card/service-worker.js",
+    "static/css/main.7e7c6b8f.chunk.css.map": "/Credit-Card/static/css/main.7e7c6b8f.chunk.css.map",
+    "static/media/App.css": "/Credit-Card/static/media/background.2c7243c7.png",
+    "static/media/master-card.png": "/Credit-Card/static/media/master-card.5ac573df.png",
+    "static/media/puce.png": "/Credit-Card/static/media/puce.8bc50203.png",
+    "static/media/visa.png": "/Credit-Card/static/media/visa.8486189a.png"
+  }
+}
